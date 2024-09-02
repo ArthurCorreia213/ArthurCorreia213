@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,20 +34,12 @@
 </div>
 
 ###
-[![ArthurCorreia213](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ArthurCorreia213](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/ArthurCorreia213/github-readme-stats)
 
-[![ArthurCorreia213](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonightt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ArthurCorreia213](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonightt&show_icons=true)](https://github.com/ArthurCorreia213/github-readme-stats)
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ArthurCorreia213/count.svg?"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
