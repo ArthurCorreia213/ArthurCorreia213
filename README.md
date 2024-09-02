@@ -34,11 +34,6 @@
 </div>
 
 ###
-[![ArthurCorreia213](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/ArthurCorreia213/github-readme-stats)
-
-[![ArthurCorreia213](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonightt&show_icons=true)](https://github.com/ArthurCorreia213/github-readme-stats)
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ArthurCorreia213/count.svg?"  />
