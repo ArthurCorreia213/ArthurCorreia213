@@ -1,15 +1,16 @@
-<h1 align="left">Hello World!!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=024dbd&size=35&center=true&vCenter=true&width=1000&lines=+HELLO,+MY+NAME+is+Lucas+Beni;I+study+analysis+and+systems+development+at+SENAI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Backend Dev
+- 🤔 Cursando Análise e Desenvolvimento de Sistemas na FATECZL
 - 🎓 Estudando Desenvolvimento de Sistemas no SENAI.
 - 🌱 Aprendendo mais sobre Backend, Frontend, Banco De Dados e Cloud.
 
 
 ###
 
-<h3 align="left">Minhas Skills</h3>
+<h3 align="center">Minhas Skills</h3>
 
 ###
 
@@ -32,9 +33,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="django logo"  />
+  <img width="12" />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ArthurCorreia213/count.svg?"  />
-</div>
+## Certificações
+- <a href="https://www.cloudskillsboost.google/public_profiles/3c78d89c-12ed-44ff-9ab0-fb7360d34e65"> Google Cloud </a><br>
+
+- <a href="https://www.credly.com/users/arthur-correia.c6e8cc27">Cisco</a><br>
+
+- <a href="https://www.credly.com/users/arthur-correia.c6e8cc27">AWS - Amazon Web Services</a><br>
+
+- IBM<br>
