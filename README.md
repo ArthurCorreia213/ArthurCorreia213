@@ -2,7 +2,7 @@
 ## Sobre mim
 
 - 💻 Backend Dev
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATECZL
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC-ZL
 - 📘 Estudando Desenvolvimento de Sistemas no SENAI.
 - 🌱 Aprendendo mais sobre Backend, Frontend, Banco De Dados e Cloud.
 
