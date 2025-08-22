@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=4911F7&width=435&lines=Ol%C3%A1+mundo!;Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=4911F7&center=true&width=435&lines=Ol%C3%A1+mundo!;Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 ## Sobre mim
 
